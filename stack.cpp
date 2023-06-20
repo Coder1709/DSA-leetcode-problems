@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     
     int n , i , a;
-    //cin>>n;
+    cin>>n;
    // string str;
     stack <int> st;
     for ( i = 0 ; i < n ; i++){
